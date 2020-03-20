@@ -11,4 +11,5 @@
 <b>test_case_3</b>: But given ​s1 = bar a​ nd ​s2 = foo​, print `true`​ since each character in "bar" can be mapped to a character in "foo."
 
 ### `Outcome:`
-<img width="1680" alt="Screen Shot 2020-03-20 at 4 51 03 PM" src="https://user-images.githubusercontent.com/62447418/77209260-34d1d800-6ad4-11ea-9722-e0cee39ca2d5.png">
+
+<img width="1680" alt="Screen Shot 2020-03-20 at 6 25 13 PM" src="https://user-images.githubusercontent.com/62447418/77210832-56cd5980-6ad8-11ea-87cc-22660e9ac730.png">
