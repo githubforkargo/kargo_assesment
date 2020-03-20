@@ -2,7 +2,7 @@
 
 ### Question: Determine whether a one-to-one character mapping exists from one string, s1 to another string, s2.
 
-### For example: 
+### `For example:` 
 
 <b>test_case_1</b>: Given ​s1 = abc​ and ​s2 = bcd,​ print `true` into stdout​ since we can map each character in "abc" to a character in "bcd".
 
