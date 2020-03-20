@@ -1,6 +1,6 @@
 # Kargo_Summer_Intern_Pre-assessment
 
-### Question: Determine whether a one-to-one character mapping exists from one string, s1 to another string, s2.
+### Question: Determine whether a one-to-one character mapping exists from one string, s1 to another string s2.
 
 ### `For example:` 
 
